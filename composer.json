@@ -1,0 +1,17 @@
+{
+  "name": "wearerequired/ms-single-site-password-reset",
+  "description": "A network-only plugin to allow password resets on the current site instead only on the main site.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "required",
+      "email": "info@required.ch",
+      "homepage": "https://required.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
+}
